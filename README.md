@@ -1,22 +1,20 @@
 # Hi, I'm Skanda SR
-Full-Stack Developer | MERN Stack | PHP | Healthcare Tech
-
----
+Full-stack Developer | MERN Stack - PHP | Building healthcare and web apps
 
 ### About Me
-- Currently working on VitalsCloud - a full-stack Healthcare Clinic Management System
-- - Learning advanced MERN stack patterns and cloud deployment
+- Built VitalsCloud2 - a full-stack Healthcare Clinic Management System (MERN Stack)
+- - Completed projects in MERN Stack, PHP/MySQL, and vanilla JavaScript
   - - I love building practical web apps that solve real-world problems
-   
-    - ### Tech Stack
-    - - Frontend: HTML5, CSS3, JavaScript, React
-      - - Backend: Node.js, Express.js, PHP
-        - - Database: MongoDB, MySQL
-          - - Tools: Git, VS Code
-           
-            - ### Featured Projects
-            - - [VitalsCloud2](https://github.com/SKANDA-SR/VitalsCloud2)
-              - - [Library Management System](https://github.com/SKANDA-SR/Library-management-system)
-                - - [Social Media Website](https://github.com/SKANDA-SR/social-media-website)
-                  - - [E-Commerce Website](https://github.com/SKANDA-SR/e-commerse-website)
+    - - Reach me through LinkedIn above
+     
+      - ### Tech Stack
+      - - Frontend: HTML5, CSS3, JavaScript, React, Redux
+        - - Backend: Node.js, Express.js, PHP
+          - - Database: MongoDB, MySQL
+            - - Tools: Git, GitHub, VS Code, Postman
+             
+              - ### Featured Projects
+              - - [VitalsCloud2](https://github.com/SKANDA-SR/VitalsCloud2)
+                - - [Library-management-system](https://github.com/SKANDA-SR/Library-management-system)
+                  - - [social-media-website](https://github.com/SKANDA-SR/social-media-website)
                     - 
